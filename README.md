@@ -1,34 +1,99 @@
-<h1 align="center">Hi 👋, I'm Arsh Goyal</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Arsh Goyal </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh459&label=Profile%20views&color=0e75b6&style=flat" alt="arsh459" /> </p>
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+    I am a passionate, athletic, full stack software developer. My aim is to make people's lives better & easier by developing applications and websites.Aside from that, I am a very athletic person and regularly practice yoga and meditation.
+<br>
+<br>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsh459" alt="arsh459" /></a> </p>
+[Email Me](mailto:arsh459@gmail.com)
 
-- 🔭 I’m currently working on **Facebook Clone**
+</div>
+</p>    
+<br>
+<!-- Languages and Tools -->
 
-- 🌱 I’m currently learning **MongoDB,Mongoose**
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<br>   
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  </a>    
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+  
+  
+</div>
+<br>
+<br>
 
-- 👨‍💻 All of my projects are available at [https://arsh459.github.io/](https://arsh459.github.io/)
 
-- 💬 Ask me about **ReactJS,JavaScript,NodeJS,ExpressJS**
 
-- 📫 How to reach me **arshgoyal188@gmail.com**
+<!-- Statistics -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dNHuOYHzYjTfOLo6r4Y9GN6AcBVPOpAv/view?usp=sharing]
-(https://drive.google.com/file/d/1dNHuOYHzYjTfOLo6r4Y9GN6AcBVPOpAv/view?usp=sharing)
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://arsh459.github.io/" target="blank">Github Profile</a>
-<a href="https://www.linkedin.com/in/arsh-goyal-nitkkr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arsh-goyal-nitkkr/" height="30" width="40" />LinkedIn Profile</a>
-</p>
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<div class="stats" align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsh459&show_icons=true&locale=en&layout=compact" alt="arsh459" /></p>
+![Arsh Goyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsh459&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsh459&show_icons=true&locale=en" alt="arsh459" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=arsh459&count_private=true&theme=algolia&border_radius=20)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh459&" alt="arsh459" /></p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsh459&show_icons=true&theme=algolia&border_radius=20)
+
+<!-- compact programming languages layout -->
+
+
+</div>
+
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://www.linkedin.com/in/arsh-goyal-nitkkr/" target="_blank">
+        <svg style="margin:0 10px 10px 0;" enable-background="new 0 0 32 32" height="40px" id="Layer_1" version="1.0" viewBox="0 0 32 32" width="40px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><circle clip-rule="evenodd" cx="16" cy="16" fill="#007BB5" fill-rule="evenodd" r="16"/><g><rect fill="#FFFFFF" height="14" width="4" x="7" y="11"/><path d="M20.499,11c-2.791,0-3.271,1.018-3.499,2v-2h-4v14h4v-8c0-1.297,0.703-2,2-2c1.266,0,2,0.688,2,2v8h4v-7    C25,14,24.479,11,20.499,11z" fill="#FFFFFF"/><circle cx="9" cy="8" fill="#FFFFFF" r="2"/></g></g><g/><g/><g/><g/><g/><g/></svg>
+    </a>
+    
+</div>
+
+
+🔗 Links 🔗
+
+- My Github Portfolio Page:
+  https://github.com/arsh459...
+- My LinkedIn:
+  https://github.com/arsh459...
+
