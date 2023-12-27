@@ -88,10 +88,3 @@
     </a>
     
 </div>
-
-
-🔗 Links 🔗
-
-- My LinkedIn:
-  https://github.com/arsh459...
-
