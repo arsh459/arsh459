@@ -92,8 +92,6 @@
 
 🔗 Links 🔗
 
-- My Github Portfolio Page:
-  https://github.com/arsh459...
 - My LinkedIn:
   https://github.com/arsh459...
 
